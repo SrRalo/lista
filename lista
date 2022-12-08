@@ -1,0 +1,242 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cine.ar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9031fa76e842682d6b61c223a3202398.png" group-title="Argentina",ARG: Cine.ar
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38652
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d3f69eaf959038a3e7107518e6c5a6e6.png" group-title="Argentina",ARG: Cinecanal
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38655
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/4094c04397c5d1ead102ff5913c3a950.png" group-title="Argentina",ARG: Cinemax
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38661
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Ciudad Magazine" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/155330a2242c544c7bb1967c695f9f8d.png" group-title="Argentina",ARG: Ciudad Magazine
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38663
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Ciudad TV Chaco" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/18343c0fb661dfdb0276d32324b92f4a.jpeg" group-title="Argentina",ARG: Ciudad TV Chaco
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/285892
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/727d1df5cf145f20b05ce03c8f71429c.png" group-title="Argentina",ARG: Comedy Central
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/49261
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/12d03d3b0c1ee223bbef7afff54f99bd.png" group-title="Argentina",ARG: Cronica TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8763
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DeporTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8e422c39a1c5c4f39a33b1602be978fd.png" group-title="Argentina",ARG: DeporTV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38664
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="Argentina",ARG: DirecTV Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/67721
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="Argentina",ARG: DirecTV Sports 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/31645
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DirecTV Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1837897a51d196c78caaecc039a49887.png" group-title="Argentina",ARG: DirecTV Sports+
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/65750
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/75d9d9ee40dbce1919a1cdf9f5f98a32.png" group-title="Argentina",ARG: Discovery H&H
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/172593
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Discovery Theater" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1d2a567812c05aa587d88f49ead9e213.png" group-title="Argentina",ARG: Discovery Theater
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/172605
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3bb6ecc1567af22c930a6043f83abdf0.png" group-title="Argentina",ARG: Disney Channel
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/49266
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d8ed293e6e5c3e34b781e0c94719a39f.png" group-title="Argentina",ARG: Disney Junior
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38665
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7754c8086fc28e5281feaa1ad81c70ae.png" group-title="Argentina",ARG: Disney XD
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38667
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Gourmet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0691c65eba09e3a371dd85faf04a6d.png" group-title="Argentina",ARG: El Gourmet
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8691
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="Argentina",ARG: ESPN
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/61174
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="Argentina",ARG: ESPN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/70752
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="Argentina",ARG: ESPN 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/61170
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="Argentina",ARG: ESPN 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/295627
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="Argentina",ARG: ESPN Extra
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/66298
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Europa Europa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/61679c9abd1d887f217eb436dc191863.png" group-title="Argentina",ARG: Europa Europa
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/29295
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Fenix TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Argentina",ARG: Fenix TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/285896
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Film & Arts" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23b7e450ea406743ae73a1b3545ff3b2.png" group-title="Argentina",ARG: Film & Arts
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38678
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="Argentina",ARG: FOX SPORTS
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280370
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png" group-title="Argentina",ARG: FOX SPORTS 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3187
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="Argentina",ARG: FOX SPORTS 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/10921
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9cf183ad8689ff703062b1b2856b72c6.png" group-title="Argentina",ARG: FX
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/172268
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FXM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b034ade7d1cec1d63cdb0ceec4673991.png" group-title="Argentina",ARG: FXM
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/29302
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Garage TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7571477b2d1658e99c8b0646b505baec.png" group-title="Argentina",ARG: Garage TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/23915
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1e20aa6fe1f1e7469316223a7226fce0.png" group-title="Argentina",ARG: HBO Mundi
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38701
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Pop" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bff69410e86e35041f8a86d296d5cbb9.png" group-title="Argentina",ARG: HBO Pop
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/29305
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Xtreme" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7241391c5fd30f0e9f8414bf2b670b49.png" group-title="Argentina",ARG: HBO Xtreme
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/172272
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Hola TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9a3eaf863f6643120072b58ea61cf2e4.png" group-title="Argentina",ARG: Hola TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/285202
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: I Sat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b1cb3b55d5c8d9b56725b77979b2563e.png" group-title="Argentina",ARG: I Sat
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/148593
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: National Geographic Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/75e48322567d65f1f20b24133b57315b.png" group-title="Argentina",ARG: National Geographic Wild
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38698
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d1d959c3ae6d2d374c200451b12c3af5.png" group-title="Argentina",ARG: Net TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/267322
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/5ac89a8ea47d9699a7bc73560eb3339f.png" group-title="Argentina",ARG: Nick Junior
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/29310
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b1eff9b3fa0ab61c323b719676ea3ae8.png" group-title="Argentina",ARG: nickelodeon
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/29311
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Pakapaka" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/c1c7b94176832edee909922ce2f0e1ba.png" group-title="Argentina",ARG: Pakapaka
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/49304
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Quiero Musica en mi Idioma" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff28f1cb799d59ce60f78e37921f76ea.png" group-title="Argentina",ARG: Quiero Musica en mi Idioma
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/30699
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8305d438ffd9b78f11cc6040c418cf8e.svg" group-title="Argentina",ARG: Television Publica
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296503
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/341e2bd93b5fa0d6897a9f0f538f2c1d.png" group-title="Argentina",ARG: TNT Series
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3109
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13a910df1bb09f161ea63531ac637fce.png" group-title="Argentina",ARG: TNT Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3204
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Publica" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/2b418149074fe7404e47676d256c4f49.png" group-title="Argentina",ARG: TV Publica
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8752
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TyC Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/a845a6541822a8cad70a73b6c708610a.png" group-title="Argentina",ARG: TyC Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8749
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Universal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/84759c64da660ef9ac51ec981b19c1b9.png" group-title="Argentina",ARG: Universal TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/38719
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f60462766a10bdca93bc891d96ed5071.png" group-title="Colombia",CO: AXN
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/46554
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cablenoticias" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e6586bf3042c10ca88dd4a72fde4919c.png" group-title="Colombia",CO: Cablenoticias
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/148933
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c848226d632b3177fde36c97a51d21f9.png" group-title="Colombia",CO: Caracol TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3162
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cinecanal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/7c3d46bbe5eb928c1e049fd465be7722.png" group-title="Colombia",CO: Cinecanal
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290335
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cosmopolitan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/cc44b2e5677e25e39096b6532871ba10.png" group-title="Colombia",CO: Cosmopolitan TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290469
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a7b9c3566bdb16dfe6b0da41cb83289a.png" group-title="Colombia",CO: Discovery World
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/46569
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f748b7afe14a0dba0045d397ca3edb92.png" group-title="Colombia",CO: ESPN
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/295642
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/7358924b8b0bc7a1eb6117baa4f15fba.png" group-title="Colombia",CO: ESPN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/273212
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2bb98255d36a1a7c9cda8b2aa2e3c335.png" group-title="Colombia",CO: ESPN 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/295641
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5ed5b531a588f1468f05a3cd31c42bd7.jfif" group-title="Colombia",CO: FOX SPORTS 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/198470
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/195a176565432eaf4ce4fe054c9442cd.png" group-title="Colombia",CO: FX
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/295243
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Mi Gente TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fed388a8f87cd14e5acf8310cfea01be.png" group-title="Colombia",CO: Mi Gente TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286306
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Noticias Caracol" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/14bae3515e7cd24ac50f002f3acb88bf.png" group-title="Colombia",CO: Noticias Caracol
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286308
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/b4d29fad7ac0746e8eed4450eb7950a4.png" group-title="Colombia",CO: RCN 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290242
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN INT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/df57574572f6a4142429bc69cbe7ff45.png" group-title="Colombia",CO: RCN INT
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290241
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/eb63d4a189bc262bfa5111dba7867a5f.png" group-title="Colombia",CO: RCN Novelas
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/54283
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Senal Colombia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e01501e124f0e5a2b655cb992e5c767b.png" group-title="Colombia",CO: Senal Colombia
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/3167
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Studio Universal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7b5a0c57537dafaa0deb7c63d68f5c03.png" group-title="Colombia",CO: Studio Universal
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/290470
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c1c7c1a346bcdfcd6f85ace03bac1b6f.png" group-title="Colombia",CO: Win Sports
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/8345
+
+#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1438a5a2a8917a271b8f5736c9783d1d.png" group-title="Colombia",CO: Win Sports+
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/294455
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Canela TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/44530fbf0fd2ab91861ea746f6997a0b.png" group-title="Ecuador",EC: Canela TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/284251
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecotel TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1a48f1afa4b422199342398485bfd4b1.png" group-title="Ecuador",EC: Ecotel TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286424
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuador TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/011a26cebebccc7c727805c4e1bef593.png" group-title="Ecuador",EC: Ecuador TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9157
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/31ba2c2d6cd6765206861259cee5df4f.png" group-title="Ecuador",EC: Ecuavisa
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9159
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Gamavision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c2478c64cde0e76e0064e578f3899f8f.png" group-title="Ecuador",EC: Gamavision
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9162
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Gol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/089d3c030026876ce63099c5164b7359.png" group-title="Ecuador",EC: Gol TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9163
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Oromar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cfcc8b9527512a97c41b42311373df42.png" group-title="Ecuador",EC: Oromar TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9164
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: RTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/e46bb79c1263f6fc534c655e7f307b8b.png" group-title="Ecuador",EC: RTS
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9165
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9a52c8af464c987aaa51238abb749e5c.png" group-title="Ecuador",EC: TC TV
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9167
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: TeleAmazonas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/915b530c0e27e8381bf984a0fdf8ef20.png" group-title="Ecuador",EC: TeleAmazonas
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/9168
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: TVC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/fe28db1f2c2345332be96321edbfb378.png" group-title="Ecuador",EC: TVC
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/47932
+
+#EXTINF:-1 tvg-id="" tvg-name="EC: Wuan+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/65cfc483a4c079d47ca4dea3b8a9df6d.png" group-title="Ecuador",EC: Wuan+
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/286436
